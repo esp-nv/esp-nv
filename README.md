@@ -4,21 +4,22 @@ Hi, I'm esp-nv 👋
 
 🛠️ Technologies
 C#
+.NET
 PHP
 HTML
 CSS
 🌱 Currently Learning
 
-I'm currently focusing on improving my C# programming skills and building practical projects.
+I'm currently improving my C# and .NET skills and building practical projects.
 
 🚀 Projects
-CSharp — C# learning and practice projects
-esp-nv — Personal GitHub projects and experiments
-🎯 Goals
-Improve my C# and .NET skills
-Build more real-world projects
-Learn good software development practices
-Create a strong portfolio
-📫 Contact
 
-Feel free to explore my repositories and follow my progress!
+Check out my repositories to see what I'm building and learning.
+
+🎯 Goals
+Improve my programming skills
+Build real-world projects
+Learn professional development practices
+Create a strong developer portfolio
+
+⭐ Thanks for visiting my profile!
