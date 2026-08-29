@@ -12,9 +12,9 @@ I'm also developing my HTML, CSS and JavaScript skills to build better and more 
 
 ### [C# / .NET](https://github.com/esp-nv/CSharp)
 
-A structured C# learning portfolio covering programming fundamentals, OOP, SQL Server and Entity Framework.
+A structured C# learning portfolio covering programming basics and fundamentals, OOP, SQL Server and Entity Framework.
 
-- C# fundamentals
+- Programming Basics and Fundamentals
 - Object-Oriented Programming
 - SQL Server
 - Entity Framework
