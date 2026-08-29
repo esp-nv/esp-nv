@@ -1,59 +1,37 @@
 # Hi, I'm esp-nv 👋
 
-💻 **Junior Developer | C# / .NET | Web Development**
+💻 Junior Developer | C# / .NET | Web Development
 
-I'm a junior developer focused on building a strong foundation in
-software development and continuously improving my practical skills.
+I'm building a strong foundation in software development with a main focus on C# and .NET.
 
-My main focus is **C# and .NET**, while I'm also developing my
-front-end knowledge with **HTML, CSS and JavaScript** to build
-better and more complete applications.
+I'm also developing my HTML, CSS and JavaScript skills to build better and more interactive front-end projects.
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Skills & Learning
 
-### 💻 C# / .NET
+### [C# / .NET](https://github.com/esp-nv/CSharp)
 
-My main development focus is C# and the .NET ecosystem.
+A structured C# learning portfolio covering programming fundamentals, OOP, SQL Server and Entity Framework.
 
-My C# portfolio currently includes:
-
-- C# Programming Basics
-- C# Fundamentals
-- C# Advanced
-- Object-Oriented Programming (OOP)
-- MS SQL Server
+- C# fundamentals
+- Object-Oriented Programming
+- SQL Server
 - Entity Framework
 
-I'm using these areas to build a solid foundation in programming,
-object-oriented development, databases and application development.
+### [HTML & CSS](https://github.com/esp-nv/HTMLandCSS)
 
----
+A collection of HTML and CSS learning projects covering web fundamentals, layouts, responsive design and forms.
 
-### 🌐 HTML & CSS
-
-I'm developing my front-end fundamentals with:
-
-- HTML5
-- CSS3
-- Semantic HTML
+- HTML fundamentals
+- CSS Box Model & Typography
+- Flexbox
+- Responsive Web Design
 - Forms
-- Layout and positioning
-- Responsive design
-- Basic web development concepts
 
-My goal is to understand how the front-end works and use these
-skills to create cleaner and more user-friendly applications.
+### JavaScript
 
----
-
-### ⚡ JavaScript
-
-I'm currently expanding my knowledge of JavaScript and
-front-end development.
-
-I'm focusing on:
+I'm currently learning JavaScript fundamentals to improve the interactivity and quality of my front-end projects.
 
 - JavaScript fundamentals
 - Variables, functions and objects
@@ -61,90 +39,29 @@ I'm focusing on:
 - DOM manipulation
 - Events
 - JSON
-- Fetch API
-- Async / Await
-- Working with APIs
-- Local storage
 
-My goal is to develop strong front-end fundamentals so I can
-build more complete and interactive projects.
+### [Software Engineering](https://github.com/esp-nv/Software-Engineering)
 
----
-
-## 🧠 Software Engineering
-
-I'm also developing my understanding of software engineering
-principles and professional development practices.
-
-I'm currently exploring:
+A structured collection of software engineering concepts and development practices that support my programming skills.
 
 - Git & GitHub
-- HTTP fundamentals
 - Clean Code
-- Refactoring
 - SOLID principles
-- Design Patterns
-- Testing
+- Refactoring
 - Software development practices
-
-I believe that learning how to write maintainable and
-well-structured code is just as important as learning a
-programming language.
 
 ---
 
 ## 🤖 AI-Assisted Learning
 
-I use **ChatGPT as a learning and development tool** to:
+I use ChatGPT as a learning assistant to understand concepts, explore solutions, review code and improve my development skills.
 
-- understand programming concepts
-- explore alternative solutions
-- troubleshoot and investigate errors
-- improve my code
-- learn new technologies
-- review ideas and approaches
-- deepen my understanding of software development
-
-I use AI to support my learning process, while my goal is to
-understand the solutions, verify them and apply the concepts
-independently.
+My goal is to understand and apply what I learn independently.
 
 ---
 
-## 🚀 Projects
+## 🎯 Goal
 
-I'm continuously building and improving practical projects
-while expanding my knowledge of C#, .NET and front-end
-development.
+My goal is to become a professional C# / .NET developer while developing strong front-end fundamentals to build complete and practical applications.
 
-My repositories contain both structured learning materials
-and practical exercises that document my progress and
-development journey.
-
----
-
-## 📚 Currently Learning
-
-- Advanced C#
-- .NET
-- SQL & Entity Framework
-- JavaScript
-- Front-end development
-- Software engineering practices
-- Testing and code quality
-
----
-
-## 🎯 My Goal
-
-My goal is to become a professional **C# / .NET developer**
-while developing enough front-end knowledge to build
-complete and practical applications.
-
-I'm focused on continuous learning, writing better code,
-building real projects and developing professional software
-development practices.
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Always learning. Always improving.
