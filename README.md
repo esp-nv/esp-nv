@@ -1,6 +1,6 @@
 # Hi, I'm esp-nv 👋
 
-💻 Junior Developer | C# / .NET | Web Development
+💻 Junior Developer
 
 I'm building a strong foundation in software development with a main focus on C# and .NET.
 
