@@ -9,15 +9,15 @@ I build structured, maintainable web applications with **C# and ASP.NET Core**, 
 
 ## 🚀 Featured Projects & Engineering Archive
 
-### 1. 🎓 [StudentManagement](https://github.com) *(ASP.NET Core MVC)*
+### 1. 🎓 [StudentManagement](https://github.com/esp-nv/StudentManagement) *(ASP.NET Core MVC)*
 An academic management system designed with a multi-level domain hierarchy (`Area` ➔ `StudyProgram` ➔ `Module` ➔ `Course` ➔ `CourseOffering` ➔ `Enrollment` ➔ `Student`).
 * **Highlights:** Layered architecture (`Controllers`, `Services/Interfaces`, `Data`), 14 Code-First EF Core migrations, centralized validation constants, and detailed engineering logs (`DevelopmentLog` & `ProjectChecklist`).
 
-### 2. 📊 [EnterpriseReportSystem](https://github.com) *(ASP.NET Core MVC)*
+### 2. 📊 [EnterpriseReportSystem](https://github.com/esp-nv/EnterpriseReportSystem) *(ASP.NET Core MVC)*
 An enterprise-grade system for asset hierarchy, financial ledger operations, data import, and dynamic UI customization.
 * **Highlights:** 17 separate Fluent API entity configurations (`IEntityTypeConfiguration`), `ISoftDeletable` pattern, JSON data seeding (`DbInitializer`), localization support, and dynamic CSS theming.
 
-### 3. 📚 [Dev-Library](https://github.com) *(Personal Engineering Knowledge Base)*
+### 3. 📚 [Dev-Library](https://github.com/esp-nv/Dev-Library) *(Personal Engineering Knowledge Base)*
 A structured technical archive organized across 8 independent engineering domains — featuring cross-stack comparisons (`.NET` vs. `JVM` vs. `Node.js`), system design patterns, SQL/NoSQL modeling, and QA automation guides.
 
 ---
