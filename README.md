@@ -1,67 +1,40 @@
 # Hi, I'm esp-nv 👋
 
-💻 Junior Developer
+💻 **Junior .NET / Full-Stack Developer & QA Automation Enthusiast**  
+📍 Vidin, Bulgaria (Open to Remote & Relocation)
 
-I'm building a strong foundation in software development with a main focus on C# and .NET.
-
-I'm also developing my HTML, CSS and JavaScript skills to build better and more interactive front-end projects.
-
----
-
-## 🛠️ Skills & Learning
-
-### [C# / .NET](https://github.com/esp-nv/CSharp)
-
-A structured C# learning portfolio covering programming basics and fundamentals, OOP, SQL Server and Entity Framework.
-
-- Programming Basics and Fundamentals
-- Object-Oriented Programming
-- SQL Server
-- Entity Framework
-
-### [HTML & CSS](https://github.com/esp-nv/HTMLandCSS)
-
-A collection of HTML and CSS learning projects covering web fundamentals, layouts, responsive design and forms.
-
-- HTML fundamentals
-- CSS Box Model & Typography
-- Flexbox
-- Responsive Web Design
-- Forms
-
-### JavaScript
-
-I'm currently learning JavaScript fundamentals to improve the interactivity and quality of my front-end projects.
-
-- JavaScript fundamentals
-- Variables, functions and objects
-- Arrays and methods
-- DOM manipulation
-- Events
-- JSON
-
-### [Software Engineering](https://github.com/esp-nv/Software-Engineering)
-
-A structured collection of software engineering concepts and development practices that support my programming skills.
-
-- Git & GitHub
-- Clean Code
-- SOLID principles
-- Refactoring
-- Software development practices
+I build structured, maintainable web applications with **C# and ASP.NET Core**, backed by strong fundamentals in **SQL Server, Entity Framework Core, Frontend (HTML5, CSS3, TypeScript)**, and **Software Testing**.
 
 ---
 
-## 🤖 AI-Assisted Learning
+## 🚀 Featured Projects & Engineering Archive
 
-I use ChatGPT as a learning assistant to understand concepts, explore solutions, review code and improve my development skills.
+### 1. 🎓 [StudentManagement](https://github.com) *(ASP.NET Core MVC)*
+An academic management system designed with a multi-level domain hierarchy (`Area` ➔ `StudyProgram` ➔ `Module` ➔ `Course` ➔ `CourseOffering` ➔ `Enrollment` ➔ `Student`).
+* **Highlights:** Layered architecture (`Controllers`, `Services/Interfaces`, `Data`), 14 Code-First EF Core migrations, centralized validation constants, and detailed engineering logs (`DevelopmentLog` & `ProjectChecklist`).
 
-My goal is to understand and apply what I learn independently.
+### 2. 📊 [EnterpriseReportSystem](https://github.com) *(ASP.NET Core MVC)*
+An enterprise-grade system for asset hierarchy, financial ledger operations, data import, and dynamic UI customization.
+* **Highlights:** 17 separate Fluent API entity configurations (`IEntityTypeConfiguration`), `ISoftDeletable` pattern, JSON data seeding (`DbInitializer`), localization support, and dynamic CSS theming.
+
+### 3. 📚 [Dev-Library](https://github.com) *(Personal Engineering Knowledge Base)*
+A structured technical archive organized across 8 independent engineering domains — featuring cross-stack comparisons (`.NET` vs. `JVM` vs. `Node.js`), system design patterns, SQL/NoSQL modeling, and QA automation guides.
 
 ---
 
-## 🎯 Goal
+## 🛠️ Tech Stack & Core Skills
 
-My goal is to become a professional C# / .NET developer while developing strong front-end fundamentals to build complete and practical applications.
+* **Backend & .NET:** C# 12, .NET 8+, ASP.NET Core MVC, Web API, Dependency Injection, LINQ, OOP, SOLID Principles, Design Patterns
+* **Databases & ORM:** Microsoft SQL Server, PostgreSQL, Entity Framework Core (Code-First, Fluent API, Migrations), Redis Caching
+* **Frontend:** HTML5, CSS3, Sass/SCSS, Bootstrap 5, Tailwind CSS, JavaScript (ES6+), TypeScript
+* **QA & Testing:** Manual QA, Test Design (EP/BVA), Unit Testing (xUnit / NUnit), Selenium WebDriver, Playwright, API Testing (Postman)
+* **Tools & Practices:** Git, GitHub, Chrome DevTools, Clean Code, Refactoring
 
-⭐ Always learning. Always improving.
+---
+
+## 🎯 Current Focus
+
+* Expanding test coverage (xUnit & Playwright) across my ASP.NET Core projects.
+* Building end-to-end features with clean architecture and modern UI/UX practices.
+
+⭐ *Always learning. Always building. Always improving.*
