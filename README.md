@@ -1,7 +1,7 @@
 # Hi, I'm esp-nv 👋
 
 💻 **Junior .NET / Full-Stack Developer & QA Automation Enthusiast**  
-📍 Vidin, Bulgaria (Open to Remote & Relocation)
+📍 Vidin, Bulgaria (Open to Remote)
 
 I build structured, maintainable web applications with **C# and ASP.NET Core**, backed by strong fundamentals in **SQL Server, Entity Framework Core, Frontend (HTML5, CSS3, TypeScript)**, and **Software Testing**.
 
